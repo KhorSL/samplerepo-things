@@ -3,4 +3,3 @@ red
 white
 green
 purple
-orange
